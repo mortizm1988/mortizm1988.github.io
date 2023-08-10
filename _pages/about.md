@@ -13,6 +13,7 @@ My expertise centers around **Financial Accounting** and **Corporate Governance*
 
 I am also affiliated with the [Barcelona School of Economics](https://bse.eu/) and the [UPF Barcelona School of Management](https://www.bsm.upf.edu/en).
 I co-organize the [Barcelona Accounting Seminars and Workshops](https://sites.google.com/view/bas-2021/inicio).
+
 You can find my [published research here](https://www.marceloortizm.com/publications/) 
 
 ## 🔎 Research Interests 
