@@ -7,14 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-👋  Hi, I am Marcelo Ortiz, Assistant professor at Universitat Pompeu Fabra. 
-
-My expertise centers around **Financial Accounting** and **Corporate Governance**. 
+👋  Hi, I am Marcelo Ortiz, Assistant professor at [Universitat Pompeu Fabra](https://www.upf.edu/en/web/universitat/la-upf-en-els-ranquings). 
 
 I am also affiliated with the [Barcelona School of Economics](https://bse.eu/) and the [UPF Barcelona School of Management](https://www.bsm.upf.edu/en).
-I co-organize the [Barcelona Accounting Seminars and Workshops](https://sites.google.com/view/bas-2021/inicio).
 
-You can find my [published research here](https://www.marceloortizm.com/publications/) 
+Here you can find my [published research](https://www.marceloortizm.com/publications/) and [some of my teaching notes](https://www.marceloortizm.com/teaching/). 
+
+Since 2019, I co-organize the [Barcelona Accounting Seminars and Workshops](https://sites.google.com/view/bas-2021/inicio).
 
 ## 🔎 Research Interests 
 - Corporate Reporting and Market Transparency
