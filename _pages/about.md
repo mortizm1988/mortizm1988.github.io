@@ -14,9 +14,8 @@ My expertise centers around **Financial Accounting** and **Corporate Governance*
 I am also affiliated with the [Barcelona School of Economics](https://bse.eu/) and the [UPF Barcelona School of Management](https://www.bsm.upf.edu/en); and  co-organize the [Barcelona Accounting Seminars and Workshops](https://sites.google.com/view/bas-2021/inicio). 
 
 ## 🔎 Research Interests: 
-- Corporate Transparency
-- Inheritance and Corporate Tax
-- Family Firms.
+- Corporate Reporting and Market Transparency
+- Wealthy Business Families
 
 ## 📢 News 
 - July 2023: Invited to Paris Dauphine - PSL to give a Research Seminar and PhD workshop in March 2024.
