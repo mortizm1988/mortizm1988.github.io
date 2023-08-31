@@ -24,9 +24,9 @@ Since 2019, I co-organize the [Barcelona Accounting Seminars and Workshops](http
 - May 2023: Selected to present at the Finance Symposium (Greece), my recent work on tax havens and offshore finance.
 
 ## 📎 Working Paper
-- [Understanding the Effect of the Financial Reporting Environment on Internal Financing: Evidence from Cash Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096239)(with Francisco Urzúa). _R&R_.
+- [Understanding the Effect of the Financial Reporting Environment on Internal Financing: Evidence from Cash Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096239) (with Francisco Urzúa). _R&R_.
 - Political Business Families (with Patricio Duran and Michael Carney). _R&R_.
-- :pushpin: NEW WP! [Private Firms and Offshore Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557679) (with Juan Imbet).
+- **NEW WP!** [Private Firms and Offshore Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557679) (with Juan Imbet).
 
 ## 🛠️ Work in Progress
 - Tax Avoidance and Optimal Contracts (with Juan Imbet and Vincent Tena).
