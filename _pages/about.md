@@ -26,8 +26,8 @@ Since 2019, I co-organize the [Barcelona Accounting Seminars and Workshops](http
 ## 📎 Working Paper
 - [Understanding the Effect of the Financial Reporting Environment on Internal Financing: Evidence from Cash Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096239)(with Francisco Urzúa). _R&R_.
 - Political Business Families (with Patricio Duran and Michael Carney). _R&R_.
+- :pushpin:NEW!:pushpin: [Private Firms and Offshore Vehicles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557679)(with Juan Imbet).
 
 ## 🛠️ Work in Progress
-- Private Firms and Offshore Vehicles (first draft soon) (with Juan Imbet). 
 - Tax Avoidance and Optimal Contracts (with Juan Imbet and Vincent Tena).
-- Financial Reporting Regulation and CEO Turnover (with Francisco Urzúa and Paolo Volpin).
+- Financial Reporting and CEOs market (with Francisco Urzúa and Paolo Volpin).
