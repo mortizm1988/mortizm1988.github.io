@@ -20,7 +20,8 @@ Since 2019, I co-organize the [Barcelona Accounting Seminars and Workshops](http
 - Wealthy Business Families
 - Inheritance and Corporate Tax
 
-## 📢 News 
+## 📢 News
+- Sept 2023: Accepted to present "Political Business Families" at the 12th International Conference of the Iberoamerican Academy of Management in Dec. 2023.
 - July 2023: Invited to Paris Dauphine - PSL to give a Research Seminar and PhD workshop in March 2024.
 - May 2023: Paper accepted in *The Review of Financial Studies*.
 - May 2023: Selected to present at the Finance Symposium (Greece), my recent work on tax havens and offshore finance.
