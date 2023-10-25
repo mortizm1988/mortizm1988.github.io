@@ -15,7 +15,7 @@ Since 2019, I co-organize the [Barcelona Accounting Seminars and Workshops](http
 
 I hold a Ph.D. in Finance and an M.Sc. in Financial Engineering from [UAI](https://www.uai.cl/en/); and during my doctoral studies I visited the [Rotterdam School of Management - Erasmus University](https://www.rsm.nl/). 
 
-Before my academic career, I worked as a portfolio manager at Itau Bank, hedging the bank's exposure to interest and liquidity risk.
+Before my academic career, I was a portfolio manager at Itau Bank, working on interest and liquidity risk management through debt issuance, asset securitization, and derivatives trading.
 
 ## 🔎 Research Interests 
 - Corporate Reporting and Market Transparency
