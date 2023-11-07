@@ -13,8 +13,6 @@ My [research has been published ](https://www.marceloortizm.com/publications/) i
 
 Since 2019, I co-organize the [Barcelona Accounting Seminars and Workshops](https://sites.google.com/view/bas-2021/inicio).
 
-I hold a Ph.D. in Finance and an M.Sc. in Financial Engineering from [UAI](https://www.uai.cl/en/); and during my doctoral studies I visited the [Rotterdam School of Management - Erasmus University](https://www.rsm.nl/). 
-
 Before my academic career, I was a portfolio manager at Itau Bank, working on interest and liquidity risk management through debt issuance, asset securitization, and derivatives trading.
 
 ## 🔎 Research Interests 
