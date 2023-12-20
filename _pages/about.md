@@ -32,5 +32,7 @@ Before my academic career, I was a portfolio manager at Itau Bank, working on in
 - **NEW WP!** [Private Firms and Offshore Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557679) (with Juan Imbet).
 
 ## 🛠️ Work in Progress
-- Tax Avoidance and Optimal Contracts (with Juan Imbet and Vincent Tena).
-- Financial Reporting and CEOs market (with Francisco Urzúa and Paolo Volpin).
+- How are the Gains from Corporate Tax Evasion Distributed? (with Juan Imbet and Vincent Tena). **First draft soon**.
+  -   We use a continuous-time moral hazard model in which a firm owner contracts an agent to reduce corporate tax expenses in an institutional setting with random audits by tax authorities. The model distinguishes between legal tax avoidance, characterized by a lack of audit risk yet persistent moral hazard, and illegal tax evasion, which introduces audit risk and contingent penalties in the event of detection. We show that a relevant fraction of the gains are paid to the manager in charge of the tax policy, and how different tax institutional features influence this fraction, the intensity of tax evasion over time, and the overall tax revenue collection. Further, we show that the optimal contract for tax evasion generates a corporate Laffer curve in a setting without investment and managerial cash diversion.
+- Financial Reporting and CEO Labor Market (with Francisco Urzúa and Paolo Volpin).
+  - We empirically study how reporting mandates affect CEO turnover and career transition across companies.   
