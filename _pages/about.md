@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Marcelo Ortiz, Assistant Professor of Financial Accounting at [Universitat Pompeu Fabra](https://www.upf.edu/en/web/universitat/la-upf-en-els-ranquings). I am also affiliated with the [Barcelona School of Economics](https://bse.eu/) and the [UPF Barcelona School of Management](https://www.bsm.upf.edu/en). 
+I am Marcelo Ortiz, Assistant Professor of Financial Accounting at [Universitat Pompeu Fabra](https://www.upf.edu/en/web/universitat/la-upf-en-els-ranquings). I am also affiliated with the [Barcelona School of Economics](https://bse.eu/) and the [UPF Barcelona School of Management](https://www.bsm.upf.edu/en).
 
-My [research has been published ](https://www.marceloortizm.com/publications/) in finance (*the Review of Financial Studies*) and management journals  (*Entrepreneurship: Theory and Practice*, and *Global Strategy Journal*). 
+My research lies at the intersection of accounting, management, and finance. I am fortunate that three of my research projects has been published in leading journals, having three publications in the FT 50 journals. Since 2019, I co-organize the [Barcelona Accounting Seminars and Workshops](https://sites.google.com/view/bas-2021/inicio).
 
-Since 2019, I co-organize the [Barcelona Accounting Seminars and Workshops](https://sites.google.com/view/bas-2021/inicio).
 
 Before my academic career, I was a portfolio manager at Itau Bank, working on interest and liquidity risk management through debt issuance, asset securitization, and derivatives trading.
+
 
 ## 🔎 Research Interests 
 - Corporate Reporting and Market Transparency
@@ -24,6 +24,14 @@ Before my academic career, I was a portfolio manager at Itau Bank, working on in
 - Jan 2024: Paper accepted in *Entrepreneurship Theory and Practice*.
 - July 2023: Invited to Paris Dauphine - PSL to give a Research Seminar and PhD workshop in March 2024.
 - May 2023: Paper accepted in *The Review of Financial Studies*.
+
+## :books: [Publications](https://www.marceloortizm.com/publications/)
+1. More than Money: Political Participation by Elite Business Families. *Entrepreneurship Theory and Practice*. Accepted. Joint with P. Duran and M. Carney.
+2. Mandatory Financial Disclosure and the M&A Activity. *The Review of Financial Studies*. 2023. Joint with F. Urzua, C. Peter, and P. Volpin.
+3. Inheritance Law. *Encyclopedia of Family Business*. Forthcoming. Cheltenham, UK, Edward Elgar Publishing. 
+4. Inheritance tax, Shareholder Protection, and the market value of Family Firms. 2021. *Global Strategy Journal*.  Joint with M. Braun, M. Carney, P. Duran, and J. Riutort.
+5. When More Is Better: Multifamily Firms and Firm Performance. 2020. *Entrepreneurship Theory and Practice*. Joint with P. Duran.
+
 
 ## 📎 Working Paper
 - [Understanding the Effect of the Financial Reporting Environment on Internal Financing: Evidence from Cash Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096239) (with Francisco Urzúa). _R&R_.
