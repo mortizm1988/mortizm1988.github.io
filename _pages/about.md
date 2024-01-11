@@ -25,20 +25,29 @@ Before my academic career, I was a portfolio manager at Itau Bank, working on in
 - July 2023: Invited to Paris Dauphine - PSL to give a Research Seminar and PhD workshop in March 2024.
 - May 2023: Paper accepted in *The Review of Financial Studies*.
 
-## :books: [Publications](https://www.marceloortizm.com/publications/)
-1. More than Money: Political Participation by Elite Business Families. *Entrepreneurship Theory and Practice*. Accepted. Joint with P. Duran and M. Carney.
-2. Mandatory Financial Disclosure and the M&A Activity. *The Review of Financial Studies*. 2023. Joint with F. Urzua, C. Peter, and P. Volpin.
-3. Inheritance Law. *Encyclopedia of Family Business*. Forthcoming. Cheltenham, UK, Edward Elgar Publishing. 
+## :books: Publications
+1. More than Money: Political Participation by Elite Business Families. Accepted. *Entrepreneurship Theory and Practice*. Joint with P. Duran and M. Carney. 
+    - [Pre-print](https://www.researchgate.net/publication/377182500_More_than_money_Political_participation_by_elite_business_families)
+
+2. Mandatory Financial Disclosure and the M&A Activity. 2023. *The Review of Financial Studies*. Joint with F. Urzua, C. Peter, and P. Volpin. 
+    - [Publisher](https://academic.oup.com/rfs/article-abstract/36/12/4788/7202058?redirectedFrom=fulltext&login=false). [Pre-print](https://papers.ssrn.com/abstract=3768349).
+3. Inheritance Law. *Encyclopedia of Family Business*. Forthcoming. Cheltenham, UK, Edward Elgar Publishing.
+    - [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411372).
 4. Inheritance tax, Shareholder Protection, and the market value of Family Firms. 2021. *Global Strategy Journal*.  Joint with M. Braun, M. Carney, P. Duran, and J. Riutort.
+    - [Publisher](https://onlinelibrary.wiley.com/doi/abs/10.1002/gsj.1394).
 5. When More Is Better: Multifamily Firms and Firm Performance. 2020. *Entrepreneurship Theory and Practice*. Joint with P. Duran.
+    - [Publisher](https://journals.sagepub.com/doi/abs/10.1177/1042258719851206?journalCode=etpb).
 
 
 ## 📎 Working Paper
-- [Understanding the Effect of the Financial Reporting Environment on Internal Financing: Evidence from Cash Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096239) (with Francisco Urzúa). _R&R_.
-- **NEW WP!** [Private Firms and Offshore Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557679) (with Juan Imbet).
+- Understanding the Effect of the Financial Reporting Environment on Internal Financing: Evidence from Cash Policy. (with Francisco Urzúa)
+  - [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096239).
+
+  - _R&R_.
+- Private Firms and Offshore Finance (with Juan Imbet)
+    - [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557679).
 
 ## 🛠️ Work in Progress
 - How are the Gains from Corporate Tax Evasion Distributed? (with Juan Imbet and Vincent Tena). **First draft soon**.
-  -   We use a continuous-time moral hazard model in which a firm owner contracts an agent to reduce corporate tax expenses in an institutional setting with random audits by tax authorities. The model distinguishes between legal tax avoidance, characterized by a lack of audit risk yet persistent moral hazard, and illegal tax evasion, which introduces audit risk and contingent penalties in the event of detection. We show that a relevant fraction of the gains are paid to the manager in charge of the tax policy, and how different tax institutional features influence this fraction, the intensity of tax evasion over time, and the overall tax revenue collection. Further, we show that the optimal contract for tax evasion generates a corporate Laffer curve in a setting without investment and managerial cash diversion.
+
 - Financial Reporting and CEO Labor Market (with Francisco Urzúa and Paolo Volpin).
-  - We empirically study how reporting mandates affect CEO turnover and career transition across companies.   
