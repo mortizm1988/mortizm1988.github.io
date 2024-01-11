@@ -25,25 +25,25 @@ Before my academic career, I was a portfolio manager at Itau Bank, working on in
 - July 2023: Invited to Paris Dauphine - PSL to give a Research Seminar and PhD workshop in March 2024.
 - May 2023: Paper accepted in *The Review of Financial Studies*.
 
-## :books: Publications
+## :book: Publications
 1. More than Money: Political Participation by Elite Business Families. Accepted. *Entrepreneurship Theory and Practice*. Joint with P. Duran and M. Carney. 
-    - [Pre-print](https://www.researchgate.net/publication/377182500_More_than_money_Political_participation_by_elite_business_families)
-
+    - [Pre-print](https://www.researchgate.net/publication/377182500_More_than_money_Political_participation_by_elite_business_families).
 2. Mandatory Financial Disclosure and the M&A Activity. 2023. *The Review of Financial Studies*. Joint with F. Urzua, C. Peter, and P. Volpin. 
     - [Publisher](https://academic.oup.com/rfs/article-abstract/36/12/4788/7202058?redirectedFrom=fulltext&login=false). [Pre-print](https://papers.ssrn.com/abstract=3768349).
 3. Inheritance Law. *Encyclopedia of Family Business*. Forthcoming. Cheltenham, UK, Edward Elgar Publishing.
     - [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411372).
 4. Inheritance tax, Shareholder Protection, and the market value of Family Firms. 2021. *Global Strategy Journal*.  Joint with M. Braun, M. Carney, P. Duran, and J. Riutort.
     - [Publisher](https://onlinelibrary.wiley.com/doi/abs/10.1002/gsj.1394).
+    - Finalist Best Paper Award AIB LAT 2018.
 5. When More Is Better: Multifamily Firms and Firm Performance. 2020. *Entrepreneurship Theory and Practice*. Joint with P. Duran.
     - [Publisher](https://journals.sagepub.com/doi/abs/10.1177/1042258719851206?journalCode=etpb).
 
 
 ## 📎 Working Paper
 - Understanding the Effect of the Financial Reporting Environment on Internal Financing: Evidence from Cash Policy. (with Francisco Urzúa)
-  - [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096239).
+  - [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096239). [BSE Focus](https://focus.bse.eu/how-transparent-reporting-influences-allocation-corporate-cash/).
 
-  - _R&R_.
+  - _R&R_ at European Accounting Review.
 - Private Firms and Offshore Finance (with Juan Imbet)
     - [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557679).
 
