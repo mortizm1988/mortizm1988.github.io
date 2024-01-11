@@ -43,7 +43,7 @@ Before my academic career, I was a portfolio manager at Itau Bank, working on in
 - Understanding the Effect of the Financial Reporting Environment on Internal Financing: Evidence from Cash Policy. (with Francisco Urzúa)
   - [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096239). [BSE Focus](https://focus.bse.eu/how-transparent-reporting-influences-allocation-corporate-cash/).
 
-  - _R&R_ at European Accounting Review.
+  - R&R at the European Accounting Review.
 - Private Firms and Offshore Finance (with Juan Imbet)
     - [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557679).
 
