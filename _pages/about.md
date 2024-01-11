@@ -21,11 +21,11 @@ Before my academic career, I was a portfolio manager at Itau Bank, working on in
 - Inheritance and Corporate Tax
 
 ## 📢 News
-- Jan 2024: Paper accepted in *Entrepreneurship Theory and Practice*.
+- Jan 2024: Paper accepted in **Entrepreneurship Theory and Practice**.
 - July 2023: Invited to Paris Dauphine - PSL to give a Research Seminar and PhD workshop in March 2024.
-- May 2023: Paper accepted in *The Review of Financial Studies*.
+- May 2023: Paper accepted in **The Review of Financial Studies**.
 
-## :book: Publications
+## Publications
 1. More than Money: Political Participation by Elite Business Families. Accepted. *Entrepreneurship Theory and Practice*. Joint with P. Duran and M. Carney. 
     - [Pre-print](https://www.researchgate.net/publication/377182500_More_than_money_Political_participation_by_elite_business_families).
 2. Mandatory Financial Disclosure and the M&A Activity. 2023. *The Review of Financial Studies*. Joint with F. Urzua, C. Peter, and P. Volpin. 
