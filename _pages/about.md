@@ -13,10 +13,9 @@ My research lies at the intersection of accounting, management, and finance. I a
 
 Before my academic career, I was a portfolio manager at Itau Bank, working on interest and liquidity risk management through debt issuance, asset securitization, and derivatives trading.
 
-## 🔎 Research Interests 
-- Corporate Reporting and Market Transparency
-- Wealthy Business Families
-- Inheritance and Corporate Tax
+ 
+ **Research Interests:** Financial Accounting, Corporate Governance, Business Family, Regulation
+
 
 ## 📢 News
 - Jan 2024: Paper accepted in **Entrepreneurship Theory and Practice**.
