@@ -7,15 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Marcelo Ortiz, Assistant Professor of Financial Accounting at [Universitat Pompeu Fabra](https://www.upf.edu/en/web/universitat/la-upf-en-els-ranquings). I am also affiliated with the [Barcelona School of Economics](https://bse.eu/) and the [UPF Barcelona School of Management](https://www.bsm.upf.edu/en).
+I am Marcelo Ortiz, Assistant Professor at [Universitat Pompeu Fabra](https://www.upf.edu/en/web/universitat/la-upf-en-els-ranquings) since March 2019. I am also affiliated with the [Barcelona School of Economics](https://bse.eu/) and the [UPF Barcelona School of Management](https://www.bsm.upf.edu/en).   
 
-My research lies at the intersection of accounting, management, and finance. I am fortunate that my research projects has been published in leading journals, having three publications in Financial Times Top 50 journals. Since 2019, I co-organize the [Barcelona Accounting Seminars and Workshops](https://sites.google.com/view/bas-2021/inicio).
+My research interests are **Corporate Governance**, **Financial Accounting**, and **Business Family**. I am fortunate that my research projects has been published in leading journals, having three publications in Financial Times Top 50 journals. Since 2019, I co-organize the [Barcelona Accounting Seminars and Workshops](https://sites.google.com/view/bas-2021/inicio).
 
 Before my academic career, I was a portfolio manager at Itau Bank, working on interest and liquidity risk management through debt issuance, asset securitization, and derivatives trading.
-
- 
- **Research Interests:** Financial Accounting, Corporate Governance, Business Family, Regulation
-
 
 ## 📢 News
 - Jan 2024: Paper accepted in **Entrepreneurship Theory and Practice**.
