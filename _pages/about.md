@@ -9,13 +9,14 @@ redirect_from:
 ---
 I am Marcelo Ortiz, Assistant Professor at [Universitat Pompeu Fabra](https://www.upf.edu/en/web/universitat/la-upf-en-els-ranquings) since March 2019. I am also affiliated with the [Barcelona School of Economics](https://bse.eu/) and the [UPF Barcelona School of Management](https://www.bsm.upf.edu/en).   
 
-My research focuses on the intersection of **Corporate Governance** and **Accounting**. My interest in governance conflicts arising from family control began during my PhD training at UAI. Later, during my visit to Erasmus University, I became interested in the relationship between transparency regulations and corporate governance. Recently, at UPF, several tax evasion scandals caught my attention, which led me to investigate the connections between corporate governance and corporate tax strategy. 
+My research focuses on the intersection of **Accounting** and **Corporate Governance**. My interest in governance conflicts arising from family control began during my PhD training at UAI. Later, during my visit to Erasmus University, I became interested in the relationship between transparency regulations and corporate governance. Recently, at UPF, several tax evasion scandals caught my attention, which led me to investigate the connections between corporate governance and corporate tax strategy. 
 
 I am fortunate that my research projects have been published in leading journals, having three publications in the FT Top 50 journals. Since 2019, I co-organize the [Barcelona Accounting Seminars and Workshops](https://sites.google.com/view/bas-2021/inicio).
 
 Before my academic career, I was a portfolio manager at Itau Bank, working on interest and liquidity risk management through debt issuance, asset securitization, and derivatives trading.
 
 ## 📢 News
+- Feb 2024: Papers accepted for the EAA Annual Congress 2024.
 - Jan 2024: Paper accepted in **Entrepreneurship Theory and Practice**.
 - July 2023: Invited to Paris Dauphine - PSL to give a Research Seminar and PhD workshop in March 2024.
 - May 2023: Paper accepted in **The Review of Financial Studies**.
