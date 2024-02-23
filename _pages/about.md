@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am Marcelo Ortiz, Assistant Professor at [Universitat Pompeu Fabra](https://www.upf.edu/en/web/universitat/la-upf-en-els-ranquings) since March 2019. I am also affiliated with the [Barcelona School of Economics](https://bse.eu/) and the [UPF Barcelona School of Management](https://www.bsm.upf.edu/en).   
 
-My research focuses on the intersection of **Accounting** and **Corporate Governance**. My interest in governance conflicts arising from family control began during my PhD training at UAI. Later, during my visit to Erasmus University, I became interested in the relationship between transparency regulations and corporate governance. Recently, at UPF, several tax evasion scandals caught my attention, which led me to investigate the connections between corporate governance and corporate tax strategy. 
+My research revolves around of **Accounting** and **Corporate Governance**. 
 
 I am fortunate that my research projects have been published in leading journals, having three publications in the FT Top 50 journals. Since 2019, I co-organize the [Barcelona Accounting Seminars and Workshops](https://sites.google.com/view/bas-2021/inicio).
 
