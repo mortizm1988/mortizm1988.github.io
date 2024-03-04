@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am Marcelo Ortiz, Assistant Professor at [Universitat Pompeu Fabra](https://www.upf.edu/en/web/universitat/la-upf-en-els-ranquings). Welcome to my homepage!
 
-I do research in **Accounting** and **Corporate Governance**, with special emphasis on the role of transparency and family ties in the economy and corporate strategies. I am fortunate that my research projects have been published in leading journals, having three publications in the FT Top 50 journals. I am also affiliated with the [Barcelona School of Economics](https://bse.eu/) and the [UPF Barcelona School of Management](https://www.bsm.upf.edu/en).   
+I do research in **Accounting** and **Corporate Governance**, with special emphasis on the role of _transparency_ and _family ties_ in the economy and corporate strategies. I am fortunate that my research projects have been published in leading journals, having three publications in the _FT Top 50 journals_. I am also affiliated with the [Barcelona School of Economics](https://bse.eu/) and the [UPF Barcelona School of Management](https://www.bsm.upf.edu/en).   
 
 Since 2019, I co-organize the [Barcelona Accounting Seminars and Workshops](https://sites.google.com/view/bas-2021/inicio).
 
@@ -44,8 +44,9 @@ Before my academic career, I was a portfolio manager at Itau Bank, working on in
     
 - Private Firms and Offshore Finance (with Juan Imbet)
     - [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557679).
+      
+- Industry Information and The Market for Top Executives (with Francisco Urzúa and Paolo Volpin)
 
 ## 🛠️ Work in Progress
 - How are the Gains from Corporate Tax Evasion Distributed? (with Juan Imbet and Vincent Tena). **First draft soon**.
 
-- Top Executive Turnover and Informational Frictions (with Francisco Urzúa and Paolo Volpin). **First draft soon**.
