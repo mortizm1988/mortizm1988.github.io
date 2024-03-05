@@ -48,5 +48,5 @@ Before my academic career, I was a portfolio manager at Itau Bank, working on in
 - Industry Information and The Market for Top Executives (with Francisco Urzúa and Paolo Volpin)
 
 ## 🛠️ Work in Progress
-- How are the Gains from Corporate Tax Evasion Distributed? (with Juan Imbet and Vincent Tena). **First draft soon**.
+- How are the evaded taxes distributed? (with Juan Imbet and Vincent Tena). **First draft soon**.
 
