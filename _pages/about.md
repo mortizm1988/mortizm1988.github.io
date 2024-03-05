@@ -16,7 +16,7 @@ Since 2019, I co-organize the [Barcelona Accounting Seminars and Workshops](http
 Before my academic career, I was a portfolio manager at Itau Bank, working on interest and liquidity risk management through debt issuance, asset securitization, and derivatives trading.
 
 ## 📢 News
-- March 2024: I will teach **PhD workshop on Accounting and Governance** in Paris Dauphine - PSL. All material is available [here](https://github.com/mortizm1988/PhD_accounting_governance).
+- March 2024: I will teach a **PhD workshop on Accounting and Governance** in Paris Dauphine - PSL. All material is available [here](https://github.com/mortizm1988/PhD_accounting_governance).
 - Feb 2024: Papers accepted for the EAA Annual Congress 2024.
 - Jan 2024: Paper accepted in **Entrepreneurship Theory and Practice**.
 - May 2023: Paper accepted in **The Review of Financial Studies**.
