@@ -35,14 +35,14 @@ Before my academic career, I was a portfolio manager at Itau Bank, working on in
 
 ### Book Chapters
 5. Inheritance Law. **Encyclopedia of Family Business**. Forthcoming. Cheltenham, UK, Edward Elgar Publishing.
-    - [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411372).
+    - [Publisher](https://www.elgaronline.com/display/book/9781800888722/ch63.xml). [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411372).
       
 ## 📎 Working Paper
 - Understanding the Effect of the Financial Reporting Environment on Internal Financing: Evidence from Cash Policy. (with Francisco Urzúa)
   - [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096239). Featured by [BSE Focus](https://focus.bse.eu/how-transparent-reporting-influences-allocation-corporate-cash/).
   - R&R at the European Accounting Review.
     
-- Private Firms and Offshore Finance (with Juan Imbet)
+- Private Firms and Offshore Finance: the Real Effects of Data Leaks (with Juan Imbet)
     - [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557679).
       
 - Industry Information and The Market for Top Executives (with Francisco Urzúa and Paolo Volpin)
