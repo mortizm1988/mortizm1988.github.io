@@ -1,7 +1,7 @@
 ---
 title: "Accounting and Governance"
 collection: teaching
-type: "Graduate course"
+type: "PhD Seminar"
 permalink: /teaching/2024-spring-teaching
 venue: "UPF and Université Paris Dauphine "
 date: 2024-01-01
