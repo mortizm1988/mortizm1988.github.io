@@ -1,7 +1,7 @@
 ---
-title: "Analysis of Financial Statements and Managerial Decisions"
+title: "Financial Statement Analysis"
 collection: teaching
-type: "Graduate course"
+type: "Master in Management"
 permalink: /teaching/2014-spring-teaching-1
 venue: "UPF-Barcelona School of Management"
 date: 2022-01-01
