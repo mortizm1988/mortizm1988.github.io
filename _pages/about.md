@@ -37,14 +37,15 @@ Before my academic career, I was a portfolio manager at Itau Bank, working on in
 
 ## 📎 Working Paper
 
-- Understanding the Effect of the Financial Reporting Environment on Internal Financing: Evidence from Cash Policy (with Francisco Urzúa)
+- Peer Financial Reports and Cash Policy (with Francisco Urzúa)
   - [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096239). Featured by [BSE Focus](https://focus.bse.eu/how-transparent-reporting-influences-allocation-corporate-cash/).
   - R&R at the European Accounting Review.
 - Private Firms and Offshore Finance: the Real Effects of Data Leaks (with Juan Imbet)
   - [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557679).
+- Dynamic Contracting and Corporate Tax Evasion (with Juan Imbet and Vincent Tena).
 
 
 ## 🛠️ Work in Progress
 
-- Dynamic Contracting and Corporate Tax Evasion (with Juan Imbet and Vincent Tena). **First draft soon**.
 - Industry Information and The Market for Top Executives (with Francisco Urzúa and Paolo Volpin)
+  
