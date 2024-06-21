@@ -43,6 +43,7 @@ Before my academic career, I was a portfolio manager at Itau Bank, working on in
 - Private Firms and Offshore Finance: the Real Effects of Data Leaks (with Juan Imbet)
   - [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557679).
 - Dynamic Contracting and Corporate Tax Evasion (with Juan Imbet and Vincent Tena).
+  - [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872375).
 
 
 ## 🛠️ Work in Progress
