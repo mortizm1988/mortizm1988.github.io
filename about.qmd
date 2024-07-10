@@ -1,12 +1,32 @@
 ---
-title: "Teaching"
+title: "About"
 ---
 
-## UPF- Barcelona School of Mnagement
-- Managerial Accounting (MSc in Management). 
+I grew up in Chile, between Viña del Mar and Santiago.
+Naturally, most of my weekends were about going to the beach, lakes, and mountains.
 
-  Course's description and material [available here](https://github.com/mortizm1988/slides-financial-statement-analysis/tree/main).
+I love photography but I don't practice enough.
 
-## Universitat Pompeu Fabra
-- Introduction to Financial Accounting (undergraduate)
-- Business Economics (undergraduate)
+
+# Chile 
+Here is a selection of some places I would recommend to visit:
+
+![Valdivia](sur.JPEG)
+
+![Torres del Paine, Patagonia](cuernos.JPG)
+
+![Cajon del Maipo](cajon.JPG)
+
+![San Pedro de Atacama, Salares](san_pedro.JPEG)
+
+![San Pedro de Atacama](san_pedro2.JPEG)
+
+![Easter Island](pascua.JPEG)
+
+# PhD life
+
+![UAI, Chile, Learning stochastic calculus](uai_ito.JPEG)
+
+![Erasmus University, NLD, cool office!](rsm.JPEG)
+
+![UAI, Chile, after the defense with my office roomies](uai_phd.JPEG)

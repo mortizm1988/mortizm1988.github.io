@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Teaching",
+    "title": "About",
     "section": "",
-    "text": "Managerial Accounting (MSc in Management).\nCourse’s description and material available here."
+    "text": "I grew up in Chile, between Viña del Mar and Santiago. Naturally, most of my weekends were about going to the beach, lakes, and mountains.\nI love photography but I don’t practice enough.\n\nChile\nHere is a selection of some places I would recommend to visit:\n\n\n\nValdivia\n\n\n\n\n\nTorres del Paine, Patagonia\n\n\n\n\n\nCajon del Maipo\n\n\n\n\n\nSan Pedro de Atacama, Salares\n\n\n\n\n\nSan Pedro de Atacama\n\n\n\n\n\nEaster Island\n\n\n\n\nPhD life\n\n\n\nUAI, Chile, Learning stochastic calculus\n\n\n\n\n\nErasmus University, NLD, cool office!\n\n\n\n\n\nUAI, Chile, after the defense with my office roomies"
   },
   {
     "objectID": "index.html",
@@ -37,6 +37,27 @@
   {
     "objectID": "about.html#universitat-pompeu-fabra",
     "href": "about.html#universitat-pompeu-fabra",
+    "title": "Teaching",
+    "section": "Universitat Pompeu Fabra",
+    "text": "Universitat Pompeu Fabra\n\nIntroduction to Financial Accounting (undergraduate)\nBusiness Economics (undergraduate)"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Managerial Accounting (MSc in Management).\nCourse’s description and material available here"
+  },
+  {
+    "objectID": "teaching.html#upf--barcelona-school-of-mnagement",
+    "href": "teaching.html#upf--barcelona-school-of-mnagement",
+    "title": "Teaching",
+    "section": "",
+    "text": "Managerial Accounting (MSc in Management).\nCourse’s description and material available here"
+  },
+  {
+    "objectID": "teaching.html#universitat-pompeu-fabra",
+    "href": "teaching.html#universitat-pompeu-fabra",
     "title": "Teaching",
     "section": "Universitat Pompeu Fabra",
     "text": "Universitat Pompeu Fabra\n\nIntroduction to Financial Accounting (undergraduate)\nBusiness Economics (undergraduate)"
