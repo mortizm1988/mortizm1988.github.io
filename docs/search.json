@@ -1,47 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I grew up in Chile, between Viña del Mar and Santiago.\nI studied for all my degrees at Universidad Adolfo Ibañez, first industrial engineering (undergraduate) and financial engineering (MSc), and then a PhD in Finance. Naturally, when not studying, I spent most of my weekends on the beach, lakes, and mountains. I like water sports, hiking, and photography.\nI moved to the Netherlands in 2018 to visit Erasmus University, Rotterdam School of Management. Then, in 2019, I moved to Barcelona and started working at Universitat Pompeu Fabra.\n\nChile\nHere is a selection of some places I would recommend to visit. I took these pictures!\n\n\n\nValdivia\n\n\n\n\n\nTorres del Paine, Patagonia\n\n\n\n\n\nCajon del Maipo\n\n\n\n\n\nSan Pedro de Atacama, Salares\n\n\n\n\n\nSan Pedro de Atacama\n\n\n\n\n\nEaster Island\n\n\n\n\nPhD life\n\n\n\nUAI, Chile, Learning stochastic calculus\n\n\n\n\n\nErasmus University, NLD, cool office!\n\n\n\n\n\nUAI, Chile, right after my defense!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Marcelo Ortiz",
-    "section": "",
-    "text": "I am an Assistant Professor of Financial Accounting at Universitat Pompeu Fabra and an Affiliated Professor at the Barcelona School of Economics and UPF-Barcelona School of Management. I also co-organize the Barcelona Accounting Summer Seminars and Workshops.\nMy CV is available here.\nResearch Interests: Corporate Governance, Financial Reporting, Financial Analysis, Business Families, and Tax avoidance."
-  },
-  {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
-    "title": "Marcelo Ortiz",
-    "section": "Publications",
-    "text": "Publications\n\nArticles\n\nMore than Money: Political Participation by Elite Business Families. Accepted. Entrepreneurship Theory and Practice. Joint with P. Duran and M. Carney.\n\nPublisher. Pre-print. Featured by BSE, Promarket, FamilyBusiness.org and Diario Financiero.\n\nMandatory Financial Disclosure and the M&A Activity. 2023. The Review of Financial Studies. Joint with F. Urzua, C. Peter, and P. Volpin.\n\nPublisher. Pre-print. Internet Appendix.\n\nInheritance tax, Shareholder Protection, and the market value of Family Firms. 2021. Global Strategy Journal. Joint with M. Braun, M. Carney, P. Duran, and J. Riutort.\n\nPublisher.\nFinalist Best Paper Award AIB LAT 2018.\n\nWhen More Is Better: Multifamily Firms and Firm Performance. 2020. Entrepreneurship Theory and Practice. Joint with P. Duran.\n\nPublisher.\n\n\n\n\nBook Chapters\n\nInheritance Law. Encyclopedia of Family Business. Forthcoming. Cheltenham, UK, Edward Elgar Publishing.\n\nPublisher. Pre-print."
-  },
-  {
-    "objectID": "index.html#working-paper",
-    "href": "index.html#working-paper",
-    "title": "Marcelo Ortiz",
-    "section": "📎 Working Paper",
-    "text": "📎 Working Paper\n\nPeer Financial Reports and Cash Policy (with Francisco Urzúa)\n\nPre-print. Featured by BSE Focus.\nR&R at the European Accounting Review.\n\nPrivate Firms and Offshore Finance: the Real Effects of Data Leaks (with Juan Imbet)\n\nPre-print.\n\nDynamic Contracting and Corporate Tax Evasion (with Juan Imbet and Vincent Tena).\n\nPre-print."
-  },
-  {
-    "objectID": "about.html#upf--barcelona-school-of-mnagement",
-    "href": "about.html#upf--barcelona-school-of-mnagement",
-    "title": "Teaching",
-    "section": "",
-    "text": "Managerial Accounting (MSc in Management).\nCourse’s description and material available here."
-  },
-  {
-    "objectID": "about.html#universitat-pompeu-fabra",
-    "href": "about.html#universitat-pompeu-fabra",
-    "title": "Teaching",
-    "section": "Universitat Pompeu Fabra",
-    "text": "Universitat Pompeu Fabra\n\nIntroduction to Financial Accounting (undergraduate)\nBusiness Economics (undergraduate)"
-  },
-  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
@@ -61,5 +19,33 @@
     "title": "Teaching",
     "section": "Universitat Pompeu Fabra",
     "text": "Universitat Pompeu Fabra\n\nIntroduction to Financial Accounting (undergraduate)\nBusiness Economics (undergraduate)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marcelo Ortiz",
+    "section": "",
+    "text": "I am an Assistant Professor of Financial Accounting at Universitat Pompeu Fabra and an Affiliated Professor at the Barcelona School of Economics and UPF-Barcelona School of Management. I also co-organize the Barcelona Accounting Summer Seminars and Workshops.\nMy CV is available here.\nResearch Interests: Corporate Governance, Financial Reporting, Financial Analysis, Business Families, and Tax avoidance."
+  },
+  {
+    "objectID": "index.html#working-paper",
+    "href": "index.html#working-paper",
+    "title": "Marcelo Ortiz",
+    "section": "📎 Working Paper",
+    "text": "📎 Working Paper\n\nPrivate Firms and Offshore Finance: the Real Effects of Data Leaks (with Juan Imbet) - Pre-print.\nDynamic Contracting and Corporate Tax Evasion (with Juan Imbet and Vincent Tena). - Pre-print.\nPeer Financial Reports and Cash Policy (with Francisco Urzúa) - Pre-print. Featured by BSE Focus. - R&R at the European Accounting Review."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Marcelo Ortiz",
+    "section": "Publications",
+    "text": "Publications\n\nArticles\n\nMore than Money: Political Participation by Elite Business Families. Accepted. Entrepreneurship Theory and Practice. Joint with P. Duran and M. Carney.\n\nPublisher. Pre-print. Featured by BSE, Promarket, FamilyBusiness.org and Diario Financiero.\n\nMandatory Financial Disclosure and the M&A Activity. 2023. The Review of Financial Studies. Joint with F. Urzua, C. Peter, and P. Volpin.\n\nPublisher. Pre-print. Internet Appendix.\n\nInheritance tax, Shareholder Protection, and the market value of Family Firms. 2021. Global Strategy Journal. Joint with M. Braun, M. Carney, P. Duran, and J. Riutort.\n\nPublisher.\nFinalist Best Paper Award AIB LAT 2018.\n\nWhen More Is Better: Multifamily Firms and Firm Performance. 2020. Entrepreneurship Theory and Practice. Joint with P. Duran.\n\nPublisher.\n\n\n\n\nBook Chapters\n\nInheritance Law. Encyclopedia of Family Business. Forthcoming. Cheltenham, UK, Edward Elgar Publishing.\n\nPublisher. Pre-print."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I grew up in Chile, between Viña del Mar and Santiago.\nI studied for all my degrees at Universidad Adolfo Ibañez, first industrial engineering (undergraduate) and financial engineering (MSc), and then a PhD in Finance. Naturally, when not studying, I spent most of my weekends on the beach, lakes, and mountains. I like water sports, hiking, and photography.\nI moved to the Netherlands in 2018 to visit Erasmus University, Rotterdam School of Management. Then, in 2019, I moved to Barcelona and started working at Universitat Pompeu Fabra.\n\nChile\nHere is a selection of some places I would recommend to visit. I took these pictures!\n\n\n\nValdivia\n\n\n\n\n\nTorres del Paine, Patagonia\n\n\n\n\n\nCajon del Maipo\n\n\n\n\n\nSan Pedro de Atacama, Salares\n\n\n\n\n\nSan Pedro de Atacama\n\n\n\n\n\nEaster Island\n\n\n\n\nPhD life\n\n\n\nUAI, Chile, Learning stochastic calculus\n\n\n\n\n\nErasmus University, NLD, cool office!\n\n\n\n\n\nUAI, Chile, right after my defense!"
   }
 ]
