@@ -21,7 +21,18 @@ My CV is available [here](cv_2024-06.pdf).
 
 **Research Interests**: Corporate Governance, Financial Reporting, Financial Analysis, Business Families, and Tax avoidance.
 
-## Publications
+###  Working Paper
+
+1. Dynamic Contracting and Corporate Tax Evasion (with Juan Imbet and Vincent Tena).
+    - [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872375).
+2.  Private Firms and Offshore Finance: the Real Effects of Data Leaks (with Juan Imbet)
+    - [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557679).
+3. Peer Financial Reports and Cash Policy (with Francisco Urzúa)
+    - [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096239). Featured by [BSE Focus](https://focus.bse.eu/how-transparent-reporting-influences-allocation-corporate-cash/).
+    - R&R at the European Accounting Review.
+4. Industry Information and The Market for Top Executives (with Francisco Urzúa and Paolo Volpin).
+    - First draft soon.
+
 
 ### Articles
 
@@ -39,13 +50,3 @@ My CV is available [here](cv_2024-06.pdf).
 
 5.  Inheritance Law. **Encyclopedia of Family Business**. Forthcoming. Cheltenham, UK, Edward Elgar Publishing.
     -   [Publisher](https://www.elgaronline.com/display/book/9781800888722/ch63.xml). [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411372).
-
-## 📎 Working Paper
-
--   Peer Financial Reports and Cash Policy (with Francisco Urzúa)
-    -   [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096239). Featured by [BSE Focus](https://focus.bse.eu/how-transparent-reporting-influences-allocation-corporate-cash/).
-    -   R&R at the European Accounting Review.
--   Private Firms and Offshore Finance: the Real Effects of Data Leaks (with Juan Imbet)
-    -   [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557679).
--   Dynamic Contracting and Corporate Tax Evasion (with Juan Imbet and Vincent Tena).
-    -   [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872375).
