@@ -4,7 +4,7 @@ image: profile.png
 toc: false
 about: 
   template: trestles
-  image-shape: rectangle
+  image-shape: round
   image-width: 30em
   links:
     - text: LinkedIn
@@ -20,18 +20,6 @@ I am an Assistant Professor of Financial Accounting at [Universitat Pompeu Fabra
 My CV is available [here](cv_2024-06.pdf).
 
 **Research Interests**: Corporate Governance, Financial Reporting, Financial Analysis, Business Families, and Tax avoidance.
-
-## 📎 Working Paper
-
-1.   Private Firms and Offshore Finance: the Real Effects of Data Leaks (with Juan Imbet)
-    -   [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557679).
-2.   Dynamic Contracting and Corporate Tax Evasion (with Juan Imbet and Vincent Tena).
-    -   [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872375).
-
-3.   Peer Financial Reports and Cash Policy (with Francisco Urzúa)
-    -   [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096239). Featured by [BSE Focus](https://focus.bse.eu/how-transparent-reporting-influences-allocation-corporate-cash/).
-    -   R&R at the European Accounting Review.
-
 
 ## Publications
 
@@ -52,3 +40,12 @@ My CV is available [here](cv_2024-06.pdf).
 5.  Inheritance Law. **Encyclopedia of Family Business**. Forthcoming. Cheltenham, UK, Edward Elgar Publishing.
     -   [Publisher](https://www.elgaronline.com/display/book/9781800888722/ch63.xml). [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411372).
 
+## 📎 Working Paper
+
+-   Peer Financial Reports and Cash Policy (with Francisco Urzúa)
+    -   [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096239). Featured by [BSE Focus](https://focus.bse.eu/how-transparent-reporting-influences-allocation-corporate-cash/).
+    -   R&R at the European Accounting Review.
+-   Private Firms and Offshore Finance: the Real Effects of Data Leaks (with Juan Imbet)
+    -   [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557679).
+-   Dynamic Contracting and Corporate Tax Evasion (with Juan Imbet and Vincent Tena).
+    -   [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872375).
