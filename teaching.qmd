@@ -3,13 +3,9 @@ title: "Teaching"
 toc: false
 ---
 
-## UPF- Barcelona School of Mnagement 
-
--   Managerial Accounting (MSc in Management).
-
-    Course's description and material [available here](https://github.com/mortizm1988/slides-financial-statement-analysis/tree/main)
-
-## Universitat Pompeu Fabra 
-
--   Introduction to Financial Accounting (undergraduate)
--   Business Economics (undergraduate)
+-   Managerial Accounting (MSc in Management) [2022-2024]
+    - [Course's description and material ](https://github.com/mortizm1988/slides-financial-statement-analysis/tree/main)
+-  Workshop in Accounting and Governance (PhD) [2023-2024]
+    - [Course's description and material](https://github.com/mortizm1988/PhD_accounting_governance)
+-  Business Economics (undergraduate) [2020-2024]
+-  Introduction to Financial Accounting (undergraduate) [2019-2023]
