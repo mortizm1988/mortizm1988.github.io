@@ -3,9 +3,10 @@ title: "Teaching"
 toc: false
 ---
 
--   Managerial Accounting (MSc in Management) [2022-2024]
-    - [Course's description and material ](https://github.com/mortizm1988/slides-financial-statement-analysis/tree/main)
--  Workshop in Accounting and Governance (PhD) [2023-2024]
-    - [Course's description and material](https://github.com/mortizm1988/PhD_accounting_governance)
--  Business Economics (undergraduate) [2020-2024]
--  Introduction to Financial Accounting (undergraduate) [2019-2023]
+-   Financial Statement Analysis for Managers (MSc in Management, UPF-BSM)
+    - [Course's description and Slides ](https://github.com/mortizm1988/slides-financial-statement-analysis/tree/main)
+-  Workshop in Accounting and Governance (PhD) [UPF, Dauphine PSL]
+    - [Course's description and Slides](https://github.com/mortizm1988/PhD_accounting_governance)
+    - [Lecture Notes (Theory)](https://github.com/mortizm1988/lecture_accounting_theory)
+-  Business Economics (undergraduate, UPF)
+-  Introduction to Financial Accounting (undergraduate, UPF)
