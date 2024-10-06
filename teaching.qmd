@@ -5,7 +5,7 @@ toc: false
 
 -   Financial Statement Analysis for Managers (MSc)
     - [Course's description and Slides ](https://github.com/mortizm1988/slides-financial-statement-analysis/tree/main)
--  Research Seminar: Accounting and Governance (Mres)
+-  Research Seminar: Accounting and Governance (MRes)
     - [Course's description and Slides](https://github.com/mortizm1988/PhD_accounting_governance)
     - [Lecture Notes (Theory)](https://github.com/mortizm1988/lecture_accounting_theory)
 -  Business Economics (undergraduate)
