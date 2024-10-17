@@ -15,7 +15,7 @@ about:
       href: mailto:marcelo.ortizm@upf.edu
 ---
 
-I am an Assistant Professor of Financial Accounting at [Universitat Pompeu Fabra](https://www.upf.edu/en/web/universitat/la-upf-en-els-ranquings).
+I am an Assistant Professor in the Department of Economics and Business at  [Universitat Pompeu Fabra](https://www.upf.edu/en/web/universitat/la-upf-en-els-ranquings).
 
 **Research Interests**: Corporate Disclosure, Tax Strategy, Business Families, and Corporate Governance.
 
