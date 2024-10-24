@@ -16,7 +16,7 @@ website:
 
 format:
   html:
-    theme: simplex
+    theme: Cyborg
     css: styles.css
     toc: true
     page-layout: full
