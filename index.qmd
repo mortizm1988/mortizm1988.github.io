@@ -4,25 +4,34 @@ image: profile.png
 toc: false
 about: 
   template: trestles
-  image-shape: round
+  image-shape: rounded
   image-width: 30em
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/marcelo-ortiz-m-02527328/
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/mortizm1988
-    - text: Email
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/MarceloOrtizM1
+    - icon: envelope
+      text: Email
       href: mailto:marcelo.ortizm@upf.edu
 ---
 
 I am an Assistant Professor in the Department of Economics and Business at  [Universitat Pompeu Fabra](https://www.upf.edu/en/web/universitat/la-upf-en-els-ranquings).
 
-My **research interests** lie at the intersection of **Accounting** and **Corporate Governance**. I have two research agendas. The first one is on the role of **corporate information** (legal disclosures and leaks) on markets and corporate policies. The second one is on the role of the **family behind the family firms**, with a special focus on the role of family members in the firm and society.
 
-I'm fortunate that my research has been published in leading journals in finance (**The Review of Financial Studies**) and management  (**Entrepreneurship Theory and Practice**[x2], and **Global Strategy Journal**). I'm a member of the Economic and Accounting Society, American Accounting Association, and European Accounting Association. Also, I'm an Affiliated Professor at the [Barcelona School of Economics](https://bse.eu/) and [UPF-Barcelona School of Management](https://www.bsm.upf.edu/), and have been a visiting scholar at Paris Dauphine PSL and Rotterdam School of Management.
+My research focuses on three main areas: Accounting, Corporate Governance, and Business Families.
 
-- Link to my [CV](cv_2024-06.pdf).
-- I co-organize the [Barcelona Accounting Summer Seminars and Workshops](https://sites.google.com/view/bas-2021/inicio).
+I'm fortunate that my research has been published in leading finance and management journals such as **The Review of Financial Studies**, **Entrepreneurship Theory and Practice** (x2), and **Global Strategy Journal**.
+
+Also, I'm an Affiliated Professor at the [Barcelona School of Economics](https://bse.eu/) and [UPF-Barcelona School of Management](https://www.bsm.upf.edu/), and have been a visiting scholar at Paris Dauphine PSL and Rotterdam School of Management. I co-organize the [Barcelona Accounting Summer](https://sites.google.com/view/bas-2021/inicio) Seminars and Workshops.
+
+ My CV is available [here](cv_2024-06.pdf).
+
 
 **News:**
 
