@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Marcelo Ortiz"
+  title: "Marcelo Ortiz M."
   navbar:
     background: primary
     left:
@@ -16,7 +16,7 @@ website:
 
 format:
   html:
-    theme: Cyborg
+    theme: united
     css: styles.css
     toc: true
     page-layout: full

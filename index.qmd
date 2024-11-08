@@ -1,6 +1,6 @@
 ---
 title: "Marcelo Ortiz M."
-image: profile.png
+image: profile.JPEG
 toc: false
 about: 
   template: trestles
@@ -28,7 +28,9 @@ My research focuses on three main areas: Accounting, Corporate Governance, and B
 
 I'm fortunate that my research has been published in leading finance and management journals such as **The Review of Financial Studies**, **Entrepreneurship Theory and Practice** (x2), and **Global Strategy Journal**.
 
-Also, I'm an Affiliated Professor at the [Barcelona School of Economics](https://bse.eu/) and [UPF-Barcelona School of Management](https://www.bsm.upf.edu/), and have been a visiting scholar at Paris Dauphine PSL and Rotterdam School of Management. I co-organize the [Barcelona Accounting Summer](https://sites.google.com/view/bas-2021/inicio) Seminars and Workshops.
+Also, I'm an Affiliated Professor at the Barcelona School of Economics and theBarcelona School of Management, and have been a visiting scholar at Université Paris Dauphine-PSL and Rotterdam School of Management. 
+
+I co-organize the [Barcelona Accounting Summer](https://sites.google.com/view/bas-2021/inicio) Seminars and Workshops.
 
  My CV is available [here](cv_2024-06.pdf).
 
