@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-### Working Paper
+## Working Paper
 
 1.  Dynamic Contracting and Corporate Tax Evasion (with Juan Imbet and Vincent Tena).
     -   [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872375).
@@ -14,7 +14,15 @@ title: "Research"
 4.  Industry Information and The Market for Top Executives (with Francisco Urzúa and Paolo Volpin).
     -   First draft soon.
 
-### Articles
+## Work in Progress
+
+1.  Luck's Limits: The Impact of Search Costs and Profitability Shocks on Rewarding by Luck (with Juan Imbet and Vincent Tena)
+
+2.  Political Nationalism and Board International Diversity (with Caspar Peter)
+
+3.  The Effect of Gender Quota Regulations on Unregulated firms (with Francisco Urzua and Sonia Falconieri)
+
+## Published Articles
 
 1.  More than Money: Political Participation by Elite Business Families. Accepted. **Entrepreneurship Theory and Practice**. Joint with P. Duran and M. Carney.
     -   [Publisher](https://journals.sagepub.com/doi/10.1177/10422587241227624). [Pre-print](https://www.researchgate.net/publication/377182500_More_than_money_Political_participation_by_elite_business_families). Featured by [BSE](https://bse.eu/microupdates/more-money-political-participation-elite-business-families), [Promarket](https://www.promarket.org/2024/03/12/rent-seeking-alone-does-not-explain-why-wealthy-families-run-for-office/), [FamilyBusiness.org](https://familybusiness.org/content/why-prominent-business-families-dive-into-politics) and [Diario Financiero](https://dfmas.df.cl/df-mas/coffee-break/25-de-familias-empresarias-chilenas-han-tenido-incursion-en-politica).
@@ -26,7 +34,8 @@ title: "Research"
 4.  When More Is Better: Multifamily Firms and Firm Performance. 2020. **Entrepreneurship Theory and Practice**. Joint with P. Duran.
     -   [Publisher](https://journals.sagepub.com/doi/abs/10.1177/1042258719851206?journalCode=etpb).
 
-### Book Chapters
+## Book Chapters
 
-5.  Inheritance Law. **Encyclopedia of Family Business**. Forthcoming. Cheltenham, UK, Edward Elgar Publishing.
+1.  Inheritance Law. **Encyclopedia of Family Business**. Forthcoming. Cheltenham, UK, Edward Elgar Publishing.
+
     -   [Publisher](https://www.elgaronline.com/display/book/9781800888722/ch63.xml). [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411372).
