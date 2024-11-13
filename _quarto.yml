@@ -4,7 +4,8 @@ project:
 
 website:
   title: "Marcelo Ortiz M."
-  google-analytics: "G-D6PKRHR4EN"
+  google-analytics: 
+    tracking-id: "G-D6PKRHR4EN"
   navbar:
     background: primary
     left:
