@@ -35,6 +35,7 @@ My CV is available [here](cv_2024-06.pdf).
 
 **News:**
 
--   Selected for Ramon y Cajal fellowship from the Spanish Government.
+-   Research featured by the [UK Endorsement Board](https://ifrs-springapps-comment-letter-api-1.azuremicroservices.io/v2/download-file?path=638_68180_UK-Endorsement-Board_0_UKEB-Final-Comment-Letter-ED-BCDGI-UNSIGNED.pdf) in an IASB's comment letter for [IFRS 3](https://www.ifrs.org/projects/work-plan/goodwill-and-impairment/exposure-draft-and-cl-bcdgi/).
+-   Selected for Ramon y Cajal Fellowship of the Spanish Government.
 -   Invited seminar at CUNEF University in April 2024.
 -   New Working Paper: "Dynamic Contracting and Corporate Tax Evasion" with Juan Imbet and Vincent Tena.
