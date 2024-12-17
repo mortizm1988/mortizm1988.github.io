@@ -35,9 +35,9 @@ My CV is available [here](cv_2024-06.pdf).
 
 ## **News:**
 
--   New Working Paper: "Industry Information and the Market for Top Executives" with Francisco Urzua and Paolo Volpin.
--   Invited to present at the St. Gallen Financial Economics Workshop on June 2025.
+-   New Working Paper: ["Industry Information and the Market for Top Executives"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5052279) with Francisco Urzua and Paolo Volpin.
+-   Invited to present at the St. Gallen Financial Economics Workshop in Switzerland, on June 2025.
 -   Research featured by the [UK Endorsement Board](https://ifrs-springapps-comment-letter-api-1.azuremicroservices.io/v2/download-file?path=638_68180_UK-Endorsement-Board_0_UKEB-Final-Comment-Letter-ED-BCDGI-UNSIGNED.pdf) in an IASB's comment letter for [IFRS 3](https://www.ifrs.org/projects/work-plan/goodwill-and-impairment/exposure-draft-and-cl-bcdgi/).
 -   Selected for the Ramon y Cajal Fellowship of the Spanish Government.
--   Invited seminar at CUNEF University in April 2025.
--   New Working Paper: "Dynamic Contracting and Corporate Tax Evasion" with Juan Imbet and Vincent Tena.
+-   Invited seminar at CUNEF University (Madrid) in April 2025.
+-   New Working Paper: ["Dynamic Contracting and Corporate Tax Evasion"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872375) with Juan Imbet and Vincent Tena.
