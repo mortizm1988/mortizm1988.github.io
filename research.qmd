@@ -21,7 +21,7 @@ title: "Research"
 
 ## Published Articles
 
-1.  Peer Financial Reports and Cash Policy. 2025. **European Accounting Review**. Forthcoming. Joint with Francisco Urzúa.
+1.  Peer Financial Reports and Cash Policy. 2025. **European Accounting Review**. Accepted. Joint with Francisco Urzúa.
     -   [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096239). Featured by [BSE Focus](https://focus.bse.eu/how-transparent-reporting-influences-allocation-corporate-cash/).
 2.  More than Money: Political Participation by Elite Business Families. 2024. **Entrepreneurship Theory and Practice**. Joint with P. Duran and M. Carney.
     -   [Publisher](https://journals.sagepub.com/doi/10.1177/10422587241227624). [Pre-print](https://www.researchgate.net/publication/377182500_More_than_money_Political_participation_by_elite_business_families).
@@ -29,7 +29,7 @@ title: "Research"
     -   Awarded 2023-24 Schulze Publication Award in the Reseach Insights category (FamilyBusiness.org).
 3.  Mandatory Financial Disclosure and the M&A Activity. 2023. **The Review of Financial Studies**. Joint with F. Urzua, C. Peter, and P. Volpin.
     -   [Publisher](https://academic.oup.com/rfs/article-abstract/36/12/4788/7202058?redirectedFrom=fulltext&login=false). [Pre-print](https://papers.ssrn.com/abstract=3768349). [Internet Appendix](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/rfs/36/12/10.1093_rfs_hhad052/1/hhad052_supplementary_data.pdf?Expires=1711502290&Signature=Rf6XxFRJiHodfFRqZCI4PW4UHV-6gIkRUAb3fEvVcoJlLPMepM644jkMGfHNblJERi9bvJNJHtcKWqGb28PtNzpPQSTDgtm6GOCMvJe23JWINzbQ36uhixyAw16rLltYnxOs-fQOXmtaw7caGcFeGBF1VDjT7xaBXmNM2Paje5fZcZqJzfuPegPE9-CjC138-F8bUlrN3ngTFeAW7kqA~Oe8G~rqKJ9S3NsSQl5JNyL2I7tddyYFc-3mhu1nN2IF79XUBjckSLYicSxRbyGiAi1kDHg1WIeMUD1~NOKykz-ZwcnlgNST2OO-NB1-W-HZnVmhQcmzJ--q67Ci34G1ow__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA).
-    -   Featured by the [UK Endorsement Board](https://ifrs-springapps-comment-letter-api-1.azuremicroservices.io/v2/download-file?path=638_68180_UK-Endorsement-Board_0_UKEB-Final-Comment-Letter-ED-BCDGI-UNSIGNED.pdf) in an IASB's comment letter for [IFRS 3](https://www.ifrs.org/projects/work-plan/goodwill-and-impairment/exposure-draft-and-cl-bcdgi/).
+    -   Our findings on the role of transparency thresholds for M&As were incorporated into the discussion of IFRS 3 "Business Combinations" by the [UK Endorsement Board](https://ifrs-springapps-comment-letter-api-1.azuremicroservices.io/v2/download-file?path=638_68180_UK-Endorsement-Board_0_UKEB-Final-Comment-Letter-ED-BCDGI-UNSIGNED.pdf) and analyzed in an [IASB Meeting](https://www.ifrs.org/content/dam/ifrs/meetings/2025/april/iasb/ap18c-pis-evidence-based-feedback.pdf).
 4.  Inheritance tax, Shareholder Protection, and the market value of Family Firms. 2021. **Global Strategy Journal**. Joint with M. Braun, M. Carney, P. Duran, and J. Riutort.
     -   [Publisher](https://onlinelibrary.wiley.com/doi/abs/10.1002/gsj.1394).
     -   Finalist Best Paper Award AIB LAT 2018.
