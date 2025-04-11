@@ -13,14 +13,13 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      - href: about.qmd
-        text: About
       - href: teaching.qmd
         text: Teaching
-
+      - href: about.qmd
+        text: About
 format:
   html:
-    theme: united
+    theme: simplex
     css: styles.css
     toc: true
     page-layout: full

@@ -1,6 +1,6 @@
 ---
 title: "Marcelo Ortiz M."
-image: profile.JPEG
+image: profile.png
 toc: false
 about: 
   template: trestles
@@ -23,21 +23,17 @@ about:
 
 I am an Assistant Professor in the Department of Economics and Business at [Universitat Pompeu Fabra](https://www.upf.edu/en/web/universitat/la-upf-en-els-ranquings) since 2019.
 
-My research focuses on three main areas: Accounting, Corporate Governance, and Business Families.
-
 I'm fortunate that my research has been published in leading journals, including three publications in journals of the FT 50 List.
 
-Also, I'm an Affiliated Professor at the Barcelona School of Economics and the Barcelona School of Management, and have been a visiting scholar at Université Paris Dauphine-PSL and Rotterdam School of Management.
+Also, I'm an Affiliated Professor at the Barcelona School of Economics and the Barcelona School of Management, and I co-organize the [Barcelona Accounting Summer](https://sites.google.com/view/bas-2021/inicio) Seminars and Workshops. My CV is available [here](cv_2024-06.pdf).mino
 
-I co-organize the [Barcelona Accounting Summer](https://sites.google.com/view/bas-2021/inicio) Seminars and Workshops.
+**Research Interests**: Accounting, Corporate Governance, and Business Families.
 
-My CV is available [here](cv_2024-06.pdf).
-
-## Spotlight**:**
+**Spotlight:**
 
 -   Our findings on the role of [transparency thresholds for M&As](https://academic.oup.com/rfs/article-abstract/36/12/4788/7202058?redirectedFrom=fulltext&login=false) were incorporated into the discussion of **IFRS 3 Business Combinations** by the [UK Endorsement Board](https://ifrs-springapps-comment-letter-api-1.azuremicroservices.io/v2/download-file?path=638_68180_UK-Endorsement-Board_0_UKEB-Final-Comment-Letter-ED-BCDGI-UNSIGNED.pdf) and analyzed in an [IASB Meeting](https://www.ifrs.org/content/dam/ifrs/meetings/2025/april/iasb/ap18c-pis-evidence-based-feedback.pdf).
 -   [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096239) accepted at the ***European Accounting Review***.
--   Next presentations: SKEMA Business School (March), CUNEF University (April), St. Gallen Financial Economics Workshop (June).
+-   Next presentations: SKEMA Business School, CUNEF University, St. Gallen Financial Economics Workshop, PUC-Chile.
 -   Selected for the **Ramon y Cajal Fellowship** of the Spanish Government.
 -   New Working Paper: ["Industry Information and the Market for Top Executives"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5052279) with Francisco Urzua and Paolo Volpin.
 -   New Working Paper: ["Dynamic Contracting and Corporate Tax Evasion"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872375) with Juan Imbet and Vincent Tena.
