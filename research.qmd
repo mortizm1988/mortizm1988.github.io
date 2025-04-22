@@ -5,8 +5,9 @@ title: "Research"
 ## Published Articles
 
 1)  **Peer Financial Reports and Cash Policy** (with F. Urzúa).
-    -   [*European Accounting Review*]{style="color:blue;"}, Accepted.
-    -   [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096239). Featured by [BSE Focus](https://focus.bse.eu/how-transparent-reporting-influences-allocation-corporate-cash/).
+    -   [*European Accounting Review*]{style="color:blue;"}, 2025.
+    -   [Publisher](https://www.tandfonline.com/doi/full/10.1080/09638180.2025.2488344). [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096239). 
+    -   Featured by [BSE Focus](https://focus.bse.eu/how-transparent-reporting-influences-allocation-corporate-cash/).
 
 ```{=html}
 <!-- -->
