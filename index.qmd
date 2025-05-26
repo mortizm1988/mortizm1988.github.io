@@ -16,6 +16,9 @@ about:
     - icon: twitter
       text: Twitter
       href: https://x.com/MarceloOrtizM1
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=ABf2QTQAAAAJ&hl=en&authuser=1
     - icon: envelope
       text: Email
       href: mailto:marcelo.ortizm@upf.edu
@@ -25,7 +28,7 @@ I'm an Assistant Professor at [Universitat Pompeu Fabra](https://www.upf.edu/en/
 
 My research lies at the intersection of **accounting** and **corporate governance.** I'm fortunate that my research has been published in leading journals, including three publications in journals of the FT 50 List.
 
-I also hold a **Ramon y Cajal fellowship** from the Spanish Ministry for Science and Innovation.
+I also hold a **Ramon y Cajal Fellowship** from the Spanish Ministry for Science and Innovation.
 
 I co-organize the [Barcelona Accounting Summer](https://sites.google.com/view/bas-2021/inicio) Seminars and Workshops.
 
@@ -33,8 +36,8 @@ I co-organize the [Barcelona Accounting Summer](https://sites.google.com/view/ba
 
 **Spotlight:**
 
--   Our findings on the role of [transparency thresholds for M&As](https://academic.oup.com/rfs/article-abstract/36/12/4788/7202058?redirectedFrom=fulltext&login=false) were incorporated into the discussion of **IFRS 3 Business Combinations** by the [UK Endorsement Board](https://ifrs-springapps-comment-letter-api-1.azuremicroservices.io/v2/download-file?path=638_68180_UK-Endorsement-Board_0_UKEB-Final-Comment-Letter-ED-BCDGI-UNSIGNED.pdf) and analyzed in an [IASB Meeting](https://www.ifrs.org/content/dam/ifrs/meetings/2025/april/iasb/ap18c-pis-evidence-based-feedback.pdf).
+-   Policy Impact: Our findings on the role of [transparency thresholds for M&As](https://academic.oup.com/rfs/article-abstract/36/12/4788/7202058?redirectedFrom=fulltext&login=false) were incorporated into the discussion of **IFRS 3 Business Combinations** by the [UK Endorsement Board](https://ifrs-springapps-comment-letter-api-1.azuremicroservices.io/v2/download-file?path=638_68180_UK-Endorsement-Board_0_UKEB-Final-Comment-Letter-ED-BCDGI-UNSIGNED.pdf) and analyzed in an [IASB Meeting](https://www.ifrs.org/content/dam/ifrs/meetings/2025/april/iasb/ap18c-pis-evidence-based-feedback.pdf).
 -   [Paper](https://www.tandfonline.com/doi/full/10.1080/09638180.2025.2488344) accepted at the ***European Accounting Review***.
--   Next presentations: SKEMA Business School, CUNEF University, St. Gallen Financial Economics Workshop, PUC-Chile.
+-   Next presentations: SKEMA Business School, CUNEF University, St. Gallen Financial Economics Workshop, PUC-Chile, BSE Summer forum.
 -   New Working Paper: ["Industry Information and the Market for Top Executives"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5052279) with Francisco Urzua and Paolo Volpin.
 -   New Working Paper: ["Dynamic Contracting and Corporate Tax Evasion"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872375) with Juan Imbet and Vincent Tena.
