@@ -37,13 +37,13 @@ title: "Research"
     -   [*Entrepreneurship Theory and Practice*]{style="color:blue;"}, 2020.
     -   [Publisher](https://journals.sagepub.com/doi/abs/10.1177/1042258719851206?journalCode=etpb).
 
-## Book Chapters and White Papers
+## Other Publications
 
 1.  **Inheritance Law**.
-    -   [*Encyclopedia of Family Business*]{style="color:blue;"}, 2024.
+    -   [*Encyclopedia of Family Business*]{style="color:blue;"}. Book Chapter, 2024.
     -   [Publisher](https://www.elgaronline.com/display/book/9781800888722/ch63.xml). [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411372).
 2.  **The prevalence of Private Family Firms in Europe.**
-    -   [*Dauphine PSL, Family Business and Long-Term Investment Chair, White Paper Series*]{style="color:blue;"}, 2025.
+    -   [*Dauphine PSL, Family Business and Long-Term Investment Chair*]{style="color:blue;"}. White Paper, 2025.
     -   [Publisher](https://dauphine.psl.eu/en/research/chairs-circles-and-research-initiatives/family-businesses-long-term-investment/publications).
 
 ## Working Paper
@@ -57,10 +57,7 @@ title: "Research"
 
 ## Work in Progress
 
-1.  Competitive Executive Compensation with Profitability Shocks (with Gilles Chemla, Juan Imbet, Vincent Tena)
-
-2.  The Impact of Political Nationalism on Corporate Governance (with Caspar Peter)
-
-3.  Spillovers of Mandatory Female Board Quotas: Female Top Executive Appointments (with Sonia Falconieri, Francisco Urzúa, and Paolo Volpin)
-
-4.  Moral Norms and the Economic Organization of the Firm (with Benito Arruñada and Lucas Lopez)
+1.  Competitive Executive Compensation with Profitability Shocks (with Gilles Chemla, Juan Imbet, Vincent Tena).
+2.  The Impact of Political Nationalism on Corporate Governance (with Caspar Peter).
+3.  Spillovers of Mandatory Female Board Quotas: Female Top Executive Appointments (with Sonia Falconieri, Francisco Urzúa, and Paolo Volpin).
+4.  Moral Norms and the Economic Organization of the Firm (with Benito Arruñada and Lucas Lopez).
