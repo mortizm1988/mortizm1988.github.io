@@ -18,7 +18,7 @@ title: "Research"
     -   Featured by [BSE](https://bse.eu/microupdates/more-money-political-participation-elite-business-families), [Promarket](https://www.promarket.org/2024/03/12/rent-seeking-alone-does-not-explain-why-wealthy-families-run-for-office/), [FamilyBusiness.org](https://familybusiness.org/content/why-prominent-business-families-dive-into-politics) and [Diario Financiero](https://dfmas.df.cl/df-mas/coffee-break/25-de-familias-empresarias-chilenas-han-tenido-incursion-en-politica).
     -   Awarded 2023-24 Schulze Publication Award in the Reseach Insights category (FamilyBusiness.org).
 
-    <!-- -->
+<!-- -->
 
 3.  **Mandatory Financial Disclosure and the M&A Activity** (with F. Urzua, C. Peter, and P. Volpin).
 
@@ -26,7 +26,7 @@ title: "Research"
     -   [Publisher](https://academic.oup.com/rfs/article-abstract/36/12/4788/7202058?redirectedFrom=fulltext&login=false). [Pre-print](https://papers.ssrn.com/abstract=3768349). [Internet Appendix](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/rfs/36/12/10.1093_rfs_hhad052/1/hhad052_supplementary_data.pdf?Expires=1711502290&Signature=Rf6XxFRJiHodfFRqZCI4PW4UHV-6gIkRUAb3fEvVcoJlLPMepM644jkMGfHNblJERi9bvJNJHtcKWqGb28PtNzpPQSTDgtm6GOCMvJe23JWINzbQ36uhixyAw16rLltYnxOs-fQOXmtaw7caGcFeGBF1VDjT7xaBXmNM2Paje5fZcZqJzfuPegPE9-CjC138-F8bUlrN3ngTFeAW7kqA~Oe8G~rqKJ9S3NsSQl5JNyL2I7tddyYFc-3mhu1nN2IF79XUBjckSLYicSxRbyGiAi1kDHg1WIeMUD1~NOKykz-ZwcnlgNST2OO-NB1-W-HZnVmhQcmzJ--q67Ci34G1ow__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA).
     -   Policy Impact: Our findings on the role of transparency thresholds for M&As were incorporated into the discussion of IFRS 3 "Business Combinations" by the [UK Endorsement Board](https://ifrs-springapps-comment-letter-api-1.azuremicroservices.io/v2/download-file?path=638_68180_UK-Endorsement-Board_0_UKEB-Final-Comment-Letter-ED-BCDGI-UNSIGNED.pdf) and analyzed in an [IASB Meeting](https://www.ifrs.org/content/dam/ifrs/meetings/2025/april/iasb/ap18c-pis-evidence-based-feedback.pdf).
 
-    <!-- -->
+<!-- -->
 
 4.  **Inheritance tax, Shareholder Protection, and the market value of Family Firms** (with M. Braun, M. Carney, P. Duran, and J. Riutort).
 
@@ -34,18 +34,21 @@ title: "Research"
     -   [Publisher](https://onlinelibrary.wiley.com/doi/abs/10.1002/gsj.1394).
     -   Finalist Best Paper Award AIB LAT 2018.
 
-    <!-- -->
+<!-- -->
 
 5.  **When More Is Better: Multifamily Firms and Firm Performance** (with P. Duran).
 
     -   [*Entrepreneurship Theory and Practice*]{style="color:blue;"}, 2020.
     -   [Publisher](https://journals.sagepub.com/doi/abs/10.1177/1042258719851206?journalCode=etpb).
 
-## Book Chapters
+## Other Publications
 
 1.  **Inheritance Law**.
-    -   [*Encyclopedia of Family Business*]{style="color:blue;"}, 2024.
+    -   [*Encyclopedia of Family Business*]{style="color:blue;"}. Book Chapter, 2024.
     -   [Publisher](https://www.elgaronline.com/display/book/9781800888722/ch63.xml). [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411372).
+2.  **The prevalence of Private Family Firms in Europe.**
+    -   [*Dauphine PSL, Family Business and Long-Term Investment Chair*]{style="color:blue;"}. White Paper, 2025.
+    -   [Publisher](https://dauphine.psl.eu/en/research/chairs-circles-and-research-initiatives/family-businesses-long-term-investment/publications).
 
 ## Working Paper
 
@@ -58,8 +61,7 @@ title: "Research"
 
 ## Work in Progress
 
-1.  Competitive Executive Compensation with Profitability Shocks (with Gilles Chemla, Juan Imbet, Vincent Tena)
-
-2.  Political Nationalism and Board International Diversity (with Caspar Peter)
-
-3.  Spillovers of Mandatory Female Board Quotas: Female Top Executive Appointments (with Sonia Falconieri, Francisco Urzúa, and Paolo Volpin)
+1.  Competitive Executive Compensation with Profitability Shocks (with Gilles Chemla, Juan Imbet, Vincent Tena).
+2.  The Impact of Political Nationalism on Corporate Governance (with Caspar Peter).
+3.  Spillovers of Mandatory Female Board Quotas: Female Top Executive Appointments (with Sonia Falconieri, Francisco Urzúa, and Paolo Volpin).
+4.  Moral Norms and the Economic Organization of the Firm (with Benito Arruñada and Lucas Lopez).
