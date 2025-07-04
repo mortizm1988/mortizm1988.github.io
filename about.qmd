@@ -4,32 +4,8 @@ title: "About"
 
 I grew up in Chile, moving around [Viña del Mar and Santiago](https://chile.travel/en/where-to-go/macrozone/central-chile-santiago-and-valparaiso/), an area renowned for its beautiful valleys, snowy mountains, and stunning coastline.
 
-I completed all my degrees at Universidad Adolfo Ibañez, starting with an undergraduate degree in industrial engineering, followed by a Master of Science in Financial Engineering, and then a PhD in Finance. When I wasn't studying, I spent most of my weekends engaged in water sports, hiking, and photography. Below are some of my pictures from Chile!
+I completed all my degrees at Universidad Adolfo Ibañez, starting with an undergraduate degree in industrial engineering, followed by a Master of Science in Financial Engineering, and then a PhD in Finance. When I wasn't studying, I spent most of my weekends engaged in water sports, hiking, and photography.
 
 I moved to the Netherlands in 2018 as a visiting PhD student at Erasmus University. In 2019, I started working at Universitat Pompeu Fabra.
 
 Before starting my PhD, I worked as a financial trader for five years, handling interest and liquidity risk exposure in Itau Bank (formerly "Corpbanca").
-
-# Chile
-
-Here is a selection of some places I would recommend to visit. I took these pictures!
-
-![Valdivia](sur.JPEG)
-
-![Torres del Paine, Patagonia](cuernos.JPG)
-
-![Cajon del Maipo](cajon.JPG)
-
-![San Pedro de Atacama, Salares](san_pedro.JPEG)
-
-![San Pedro de Atacama](san_pedro2.JPEG)
-
-![Easter Island](pascua.JPEG)
-
-# PhD life
-
-![UAI, Chile, Learning stochastic calculus.](uai_ito.JPEG)
-
-![Erasmus University, NLD.](rsm.JPEG)
-
-![UAI, Chile, right after my defense.](uai_phd.JPEG)

@@ -19,8 +19,7 @@ website:
         text: About
 format:
   html:
-    theme: simplex
-    css: styles.css
+    theme: cosmo
     toc: true
     page-layout: full
 
