@@ -52,7 +52,7 @@ title: "Research"
     -   [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872375).
 2.  **Private Firms and Offshore Finance: the Real Effects of Data Leaks** (with Juan Imbet).
     -   [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557679).
-3.  **Industry Information and The Market for Top Executives** (with Francisco Urzúa and Paolo Volpin).
+3.  **The Effect of Mandatory Disclosure on the CEO Market for Private Firms** (with Francisco Urzúa and Paolo Volpin).
     -   [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5052279).
 
 ## Work in Progress
