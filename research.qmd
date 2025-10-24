@@ -54,10 +54,13 @@ title: "Research"
     -   [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557679).
 3.  **The Effect of Mandatory Disclosure on the CEO Market for Private Firms** (with Francisco Urzúa and Paolo Volpin).
     -   [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5052279).
+4.  **Board Gender Quotas and Female CEOs in Private Firms** (with Sonia Falconieri, Francisco Urzúa, and Paolo Volpin).
+    -   Draft available soon
 
 ## Work in Progress
 
-1.  Competitive Executive Compensation with Profitability Shocks (with Gilles Chemla, Juan Imbet, Vincent Tena).
-2.  The Impact of Political Nationalism on Corporate Governance (with Caspar Peter).
-3.  Women CEO Appointments (with Sonia Falconieri, Francisco Urzúa, and Paolo Volpin).
-4.  Moral Norms and the Economic Organization of the Firm (with Benito Arruñada and Lucas Lopez).
+1.  The Impact of Political Nationalism on Corporate Governance (with Caspar Peter).
+
+2.  Moral Norms and the Economic Organization of the Firm (with Benito Arruñada and Lucas Lopez).
+
+3.  Competitive Executive Compensation with Profitability Shocks (with Gilles Chemla, Juan Imbet, Vincent Tena).
