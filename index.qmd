@@ -25,7 +25,7 @@ about:
       href: mailto:marcelo.ortizm@upf.edu
 ---
 
-I'm an Assistant Professor at [Universitat Pompeu Fabra](https://www.upf.edu/en/web/universitat/la-upf-en-els-ranquings), affiliated with the Barcelona School of Economics and the Barcelona School of Management.
+I'm an Assistant Professor at [Universitat Pompeu Fabra](https://www.upf.edu/en/web/universitat/la-upf-en-els-ranquings), and affiliated with the Barcelona School of Economics and the Barcelona School of Management.
 
 My research lies at the intersection of **Accounting** and **Corporate Governance.** I'm fortunate that my research has been published in leading journals, including three publications in journals of the FT 50 List.
 
@@ -33,7 +33,7 @@ I also hold a **Ramon y Cajal Fellowship** from the Spanish Ministry for Science
 
 I co-organize the [Barcelona Accounting Summer Workshops](https://sites.google.com/view/bas-2021/inicio).
 
-[CV link](cv_2024-06.pdf).
+[CV link](cv_MOrtiz.pdf).
 
 **Spotlight:**
 
