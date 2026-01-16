@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-## Published Articles
+## Journal Articles
 
 -   Peer Financial Reports and Cash Policy (with F. Urzúa).
     -   **European Accounting Review**, 2025.
@@ -37,16 +37,7 @@ title: "Research"
     -   **Entrepreneurship Theory and Practice**, 2020.
     -   [Publisher](https://journals.sagepub.com/doi/abs/10.1177/1042258719851206?journalCode=etpb).
 
-## Other Publications
-
--   Inheritance Law.
-    -   **Encyclopedia of Family Business**. Book Chapter, 2024.
-    -   [Publisher](https://www.elgaronline.com/display/book/9781800888722/ch63.xml). [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411372).
--   The prevalence of Private Family Firms in Europe.
-    -   **White Paper--Family Business and Long-Term Investment Chair**. Dauphine PSL , 2025.
-    -   [Publisher](https://dauphine.psl.eu/en/research/chairs-circles-and-research-initiatives/family-businesses-long-term-investment/publications).
-
-## Working Paper
+## Current Research
 
 -   The Effect of Mandatory Disclosure on the CEO Market for Private Firms (with Francisco Urzúa and Paolo Volpin).
     -   [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5052279).
@@ -59,8 +50,19 @@ title: "Research"
     -   [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5747103).
     -   Featured by [Forbes CL](https://forbes.cl/mujeres/2025-11-12/estudio-indica-que-cuotas-de-genero-en-directorios-aumentan-la-participacion-de-mujeres-ceo-en-empresas).
 
-## Work in Progress
+<!-- -->
 
 -   The Impact of Political Nationalism on Corporate Governance (with Caspar Peter).
 -   Moral Norms and the Economic Organization of the Firm (with Benito Arruñada and Lucas Lopez).
 -   Competitive Executive Compensation with Profitability Shocks (with Gilles Chemla, Juan Imbet, Vincent Tena).
+
+## Other Publications
+
+-   Inheritance Law.
+    -   **Encyclopedia of Family Business**. Book Chapter, 2024.
+    -   [Publisher](https://www.elgaronline.com/display/book/9781800888722/ch63.xml). [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411372).
+-   The prevalence of Private Family Firms in Europe.
+    -   **White Paper--Family Business and Long-Term Investment Chair**. Dauphine PSL , 2025.
+    -   [Publisher](https://dauphine.psl.eu/en/research/chairs-circles-and-research-initiatives/family-businesses-long-term-investment/publications).
+
+##
