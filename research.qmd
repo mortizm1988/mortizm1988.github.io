@@ -41,9 +41,10 @@ title: "Research"
 
 -   The Effect of Mandatory Disclosure on the CEO Market for Private Firms (with Francisco Urzúa and Paolo Volpin).
     -   [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5052279).
-    -   R&R at the *Journal of Financial and Quantitative Analysis*.
+    -   Revise & Resubmit at the *Journal of Financial and Quantitative Analysis*.
 -   Dynamic Contracting and Corporate Tax Evasion (with Juan Imbet and Vincent Tena).
     -   [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872375).
+    -   Reject & Resubmit at the *Journal of Accounting and Economics*.
 -   Private Firms and Offshore Finance: the Real Effects of Data Leaks (with Juan Imbet).
     -   [Pre-print](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557679).
 -   Board Gender Quotas and Female CEOs in Private Firms (with Sonia Falconieri, Francisco Urzúa, and Paolo Volpin).
