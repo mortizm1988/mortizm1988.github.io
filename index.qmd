@@ -27,11 +27,9 @@ about:
 
 I'm an Assistant Professor at [Universitat Pompeu Fabra](https://www.upf.edu/en/web/universitat/la-upf-en-els-ranquings), and affiliated with the Barcelona School of Economics and the Barcelona School of Management.
 
-My research on **Corporate Governance** lies at the intersection of **Accounting, Finance, and Management**. I investigate how corporate regulations, such as disclosure mandates and taxation, influence market outcomes and corporate strategies. I'm particularly interested in **private firms and family businesses**.
+My research in **corporate governance** examines how regulatory interventions, such as reporting requirements and corporate taxation, affect corporate strategy and market outcomes, with implications for **accounting, finance, and management**. My work has been published in leading journals, including three publications in FT50 journals.
 
-I'm fortunate that my research has been published in leading journals, including three publications in journals of the FT 50 List.
-
-**Research areas**: Corporate Governance, Financial Reporting, Family Firms, and Corporate Regulation.
+**Research areas**: Corporate Governance, Financial Reporting, Corporate Taxation, Private Firms.
 
 I also hold a **Ramon y Cajal Fellowship** from the Spanish Ministry for Science and Innovation, and co-organize the [Barcelona Accounting Summer Workshops](https://sites.google.com/view/bas-2021/inicio).
 
@@ -39,9 +37,9 @@ I also hold a **Ramon y Cajal Fellowship** from the Spanish Ministry for Science
 
 **Spotlight:**
 
--   I will be serving as an Academic Visitor at the Saïd Business School, University of Oxford, this spring.
+-   I will be serving as an **Academic Visitor** at the Saïd Business School, **University of Oxford**, this spring.
 -   **New Working Paper**: [Board Gender Quotas and Female CEOs in Private Firms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5747103).
 -   **Updated Working Paper**: [The Effect of Mandatory Disclosure on the CEO Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5052279).
 -   **Policy Impact**: Our findings on the role of [transparency thresholds for M&As](https://academic.oup.com/rfs/article-abstract/36/12/4788/7202058?redirectedFrom=fulltext&login=false) (*Review Financial Studies*, 2023) were incorporated into the discussion of **IFRS 3 Business Combinations** by the [UK Endorsement Board](https://ifrs-springapps-comment-letter-api-1.azuremicroservices.io/v2/download-file?path=638_68180_UK-Endorsement-Board_0_UKEB-Final-Comment-Letter-ED-BCDGI-UNSIGNED.pdf) and analyzed in an [IASB Meeting](https://www.ifrs.org/content/dam/ifrs/meetings/2025/april/iasb/ap18c-pis-evidence-based-feedback.pdf).
--   **Upcoming presentations**: Paris-Dauphine Family Firm Seminars, Warwick Business School, Lancaster University.
--   **Recent presentations**: SKEMA Business School, CUNEF University, St. Gallen Financial Economics Workshop, PUC-Chile, BSE Summer forum.
+-   **Upcoming presentations**: Warwick Business School, Lancaster University, EAA Annual Congress 2026.
+-   **Recent presentations**: SKEMA Business School, CUNEF University, St. Gallen Financial Economics Workshop, PUC-Chile, Paris-Dauphine Family Firm Seminars.
