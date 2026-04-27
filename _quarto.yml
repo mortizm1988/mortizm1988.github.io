@@ -21,7 +21,7 @@ website:
         text: About
 format:
   html:
-    theme: cosmo
+    theme: flatly
     toc: true
     page-layout: full
 
