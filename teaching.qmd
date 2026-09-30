@@ -9,4 +9,5 @@ toc: false
     -   [Course's description and Slides](https://github.com/mortizm1988/PhD_accounting_governance)
     -   [Lecture Notes (Theory)](https://github.com/mortizm1988/lecture_accounting_theory)
 -   Business Economics (undergraduate)
+    -   [Course's description and Slides](https://github.com/mortizm1988/Business_economics)
 -   Introduction to Financial Accounting (undergraduate)
