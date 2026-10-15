@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.26">
+<meta name="generator" content="quarto-1.7.30">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -32,15 +32,14 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-de070a7b0ab54f8780927367ac907214.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-84726c846bff7a1900cb916ae47fb5d7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-cec5a0e53abf3ed84780f7624409562e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -132,7 +131,7 @@ gtag('config', 'G-D6PKRHR4EN', { 'anonymize_ip': true});
   <ul>
   <li><a href="#journal-articles" id="toc-journal-articles" class="nav-link active" data-scroll-target="#journal-articles">Journal Articles</a></li>
   <li><a href="#current-research" id="toc-current-research" class="nav-link" data-scroll-target="#current-research">Current Research</a></li>
-  <li><a href="#other-publications" id="toc-other-publications" class="nav-link" data-scroll-target="#other-publications">Other Publications</a></li>
+  <li><a href="#book-chapters-and-other-publications" id="toc-book-chapters-and-other-publications" class="nav-link" data-scroll-target="#book-chapters-and-other-publications">Book Chapters and Other Publications</a></li>
   <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
   </ul>
 </nav>
@@ -228,18 +227,19 @@ gtag('config', 'G-D6PKRHR4EN', { 'anonymize_ip': true});
 <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5747103">Pre-print</a>.</li>
 <li>Featured by <a href="https://forbes.cl/mujeres/2025-11-12/estudio-indica-que-cuotas-de-genero-en-directorios-aumentan-la-participacion-de-mujeres-ceo-en-empresas">Forbes CL</a>.</li>
 </ul></li>
-</ul>
-<!-- -->
-<ul>
 <li>The Impact of Political Nationalism on Corporate Governance (with Caspar Peter).</li>
 </ul>
 </section>
-<section id="other-publications" class="level2">
-<h2 class="anchored" data-anchor-id="other-publications">Other Publications</h2>
+<section id="book-chapters-and-other-publications" class="level2">
+<h2 class="anchored" data-anchor-id="book-chapters-and-other-publications">Book Chapters and Other Publications</h2>
 <ul>
+<li>Governance in Multifamily Firms: Theory, Evidence, and Methodological Challenges
+<ul>
+<li><strong>Research Handbook on Family Business Governance<em>,</em></strong> Edward Elgar, forthcoming</li>
+</ul></li>
 <li>Inheritance Law.
 <ul>
-<li><strong>Encyclopedia of Family Business</strong>. Book Chapter, 2024.</li>
+<li><strong>Encyclopedia of Family Business</strong>. <strong>Edward Elgar</strong>, 2024.</li>
 <li><a href="https://www.elgaronline.com/display/book/9781800888722/ch63.xml">Publisher</a>. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411372">Pre-print</a>.</li>
 </ul></li>
 <li>The prevalence of Private Family Firms in Europe.
@@ -307,14 +307,13 @@ gtag('config', 'G-D6PKRHR4EN', { 'anonymize_ip': true});
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-      const outerScaffold = trigger.parentElement.cloneNode(true);
-      const codeEl = outerScaffold.querySelector('code');
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
         }
-      }
-      return codeEl.innerText;
+        return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
